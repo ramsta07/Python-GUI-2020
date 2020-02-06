@@ -5,6 +5,7 @@
 *.docx
 *.spec
 *.csv
+setup.txt
 /output
 resources/Contract Templates/Templates/Contract Type Template.xlsx
 resources/Contract Templates/Templates/Debit Enrichment Template.xlsx

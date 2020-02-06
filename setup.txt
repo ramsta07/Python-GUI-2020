@@ -90,6 +90,8 @@ git branch -d oldBranchName
 					
 See What Branch You're On
 git status
+
+rm -rf .git
 					
 Resolve Merge Conflicts Visually
 git mergetool
