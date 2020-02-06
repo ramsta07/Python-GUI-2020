@@ -37,3 +37,79 @@ pyinstaller --onefile --icon=app.ico --paths C:\Users\rampil.saavedra\Documents\
 https://nsis.sourceforge.io/Main_Page
 
 https://myoffice.accenture.com/personal/rampil_saavedra_accenture_com/Documents/Microsoft%20Teams%20Chat%20Files/DS%20app.zip
+
+
+##### GIT Version Control ######
+
+Initialize Git
+$ git config --global user.name "Ram Saavedra"
+$ git config --global user.email "ram.saavedra@gmail.com"
+$ git config --global push.default matching
+$ git config --global alias.co checkout
+$ git init
+			
+Add Files To Git
+git add .
+git commit -am "Initial Commit"
+
+find . -type f -name *.xlsx | cut -c 3- >> .gitignore
+
+git remote add origin https://github.com/ramsta07/Python-GUI-2020.git
+git push -u origin master
+
+					
+Roll Back Code To Last Commit
+git checkout .
+
+Create and Switch To A New Branch
+git checkout -b branchName
+					
+Switch To A Different Branch (Already Created)
+git branch BranchName
+					
+Push Branch To Github
+# To Push A Branch
+git push origin BRANCHNAME
+ 
+# To push your master branch
+git push origin master
+					
+Switch Back To Your Master Branch
+git checkout master
+					
+Merge Your Branch Back Into Your Master Branch
+# While Checked into your branch...
+git merge
+ 
+# Or while checked into your master branch
+git merge BranchName
+					
+Delete Old Branch After You've Merged It To Master
+# After You've Merged Your Branch Back Into Your Master Branch
+git branch -d oldBranchName
+					
+See What Branch You're On
+git status
+					
+Resolve Merge Conflicts Visually
+git mergetool
+					
+Set up and push to Heroku
+# Test to see if you have the heroku toolbelt installed
+heroku --version
+ 
+# login to Heroku
+heroku login
+ 
+# Add security keys
+heroku keys:add
+ 
+# Create an App
+heroku create
+ 
+#to rename your app at heroku
+heroku rename ENTERNAME
+ 
+# Push your code
+git push heroku master
+			
