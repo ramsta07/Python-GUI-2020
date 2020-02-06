@@ -1,0 +1,599 @@
+{
+	"usageFlows": [
+		{
+		"UsageType" : "AIRC",
+		"UsageName"	: "Amadeus Interface Record",
+		"ReportName": "OTC - 10 - AIRC - Amadeus Interface Record - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "ALFG",
+		"UsageName"	: "Flight Management",
+		"ReportName": "OTC - 44 - ALFG - Flight Management - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "ARBK",
+		"UsageName"	: "Air Booking",
+		"ReportName": "OTC - 02 - ARBK - Air Booking - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "ARVI",
+		"UsageName"	: "Revenue Integrity",
+		"ReportName": "OTC - 11 - ARVI - Revenue Integrity - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "ATDCTD",
+		"UsageName"	: "ATD CTD",
+		"ReportName": "OTC - 12 - ATDT - ATD CTD - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "CABK",
+		"UsageName"	: "Car Bookings",
+		"ReportName": "OTC - 03 - CABK - Car Bookings - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "CADO",
+		"UsageName"	: "Car Documents",
+		"ReportName": "OTC - 30 - CADO - Car Documents - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "CRBK",
+		"UsageName"	: "Cruise Booking",
+		"ReportName": "OTC - 01 - CRBK - Cruise Booking - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "CTKT",
+		"UsageName"	: "Central Ticketing",
+		"ReportName": "OTC - 31 - CTKT - Central Ticketing - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "CTXS",
+		"UsageName"	: "Central Transaction",
+		"ReportName": "OTC - 13 - CTXS - Central Transaction - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "DFBK_AIR",
+		"UsageName"	: "Distribution Fee Air",
+		"ReportName": "OTC - 09 - DFBK - Distribution Fee Air - Usage type pricing template.xlsx",
+		"ReportType": "Credit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "DFBK_NAIR",
+		"UsageName"	: "Distribution Fee Non Air",
+		"ReportName": "OTC - 09 - DFBK - Distribution Fee Non Air - Usage type pricing template.xlsx",
+		"ReportType": "Credit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "DOCO",
+		"UsageName"	: "Document Composer",
+		"ReportName": "OTC - 15 - DOCO - Document Composer - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "EMDS",
+		"UsageName"	: "EMD Server",
+		"ReportName": "OTC - 40 - EMDS - EMD Server - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "ETKT",
+		"UsageName"	: "E-ticket server",
+		"ReportName": "OTC - 33 - ETKT - E-ticket server - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "EXCS",
+		"UsageName"	: "Excessive",
+		"ReportName": "OTC - 16 - EXCS - Excessive - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "FQTR",
+		"UsageName"	: "Fare Quote Transactions",
+		"ReportName": "OTC - 17 - FQTR - Fare Quote Transactions - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "HOBK",
+		"UsageName"	: "Hotel Bookings",
+		"ReportName": "OTC - 08 - HOBK - Hotel Bookings - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "LIC2",
+		"UsageName"	: "Inventory Based Licences Rec Charges",
+		"ReportName": "OTC - 43 - LICE - Inventory Based Licences Rec Charges - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "MANU",
+		"UsageName"	: "Manual Billing",
+		"ReportName": "OTC - 07 - MANU - Manual Billing - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "MANU_CREDIT",
+		"UsageName"	: "Manual Billing Credit",
+		"ReportName": "OTC - 07 - MANU - Manual Billing Credit - Usage type pricing template.xlsx",
+		"ReportType": "Credit",
+		"IsListPrices": false,
+		"IsMINQ": true,
+		"IsCAP": true,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "MANU_CREDIT_RC_OS",
+		"UsageName"	: "Manual Billing Credit for RC and OS",
+		"ReportName": "OTC - 07 - MANU - Manual Billing Credit for RC and OS manual adjustments - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": true,
+		"IsCAP": true,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "MDAB_ABI",
+		"UsageName"	: "MDAB - Distributed Document",
+		"ReportName": "OTC - 14 - MDAB - Distributed Document - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "MDAB_MIDT",
+		"UsageName"	: "MDAB - Distributed Document",
+		"ReportName": "OTC - 14 - MDAB - Distributed Document - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "OBFE",
+		"UsageName"	: "OB Fees",
+		"ReportName": "OTC - 18 - OBFE - OB Fees - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "OFER",
+		"UsageName"	: "Offers",
+		"ReportName": "OTC - 19 - OFER - Offers - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "PAYM",
+		"UsageName"	: "Payment",
+		"ReportName": "OTC - 20 - PAYM - Payment - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "PBBK",
+		"UsageName"	: "Passengers Boarded",
+		"ReportName": "OTC - 10 - ALTE - Passengers Boarded - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "PNR_E",
+		"UsageName"	: "E-retail PNR",
+		"ReportName": "OTC - 32 - PNRE - E-retail PNR - Usage type pricing template",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "PNRD",
+		"UsageName"	: "PNR Sharing",
+		"ReportName": "OTC - 35 - PNRD - PNR Sharing - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "PNRE",
+		"UsageName"	: "Central Transaction for PNR Recall",
+		"ReportName": "OTC - 13 - PNRE - Central Transaction for PNR Recall - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "PRLC",
+		"UsageName"	: "Product License Counting",
+		"ReportName": "OTC - 36 - PRLC - Product Licence Counting - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "RABK",
+		"UsageName"	: "Rail Bookings",
+		"ReportName": "OTC - 05 - RABK - Rail Bookings - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "REAC",
+		"UsageName"	: "Revenue Accounting",
+		"ReportName": "OTC - 22 - REAC - Revenue Accounting - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "SECO",
+		"UsageName"	: "Sell Connect",
+		"ReportName": "OTC - 37 - SECO - Sell Connect - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "SFML",
+		"UsageName"	: "Service Fee Manager Licenses",
+		"ReportName": "OTC - 23 - SFML - Service Fee Manager Licenses - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "SITR",
+		"UsageName"	: "SI Transaction",
+		"ReportName": "OTC - 24 - STTR - SI Transaction - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "SFMT",
+		"UsageName"	: "Service Fee Manager Licenses",
+		"ReportName": "OTC - 23 - SMFT - Service Fee Manager Transactions - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "SMTA",
+		"UsageName"	: "Central Transaction for Smart Segment",
+		"ReportName": "OTC - 13 - SMTA - Central Transaction for Smart Segment - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "SMTAB",
+		"UsageName"	: "Smart Tab Licenses",
+		"ReportName": "OTC - 38 - SMTA - Smart Tab Licences - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "SNCF",
+		"UsageName"	: "SNCF Bookings and Tickets",
+		"ReportName": "OTC - 04 - SNCF - SNCF Bookings and Tickets- Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "TABK",
+		"UsageName"	: "Amadeus Insurance",
+		"ReportName": "OTC - 07 - TABK - Amadeus Insurance - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "TKBK",
+		"UsageName"	: "Ticketed Bookings",
+		"ReportName": "OTC - 11 - TKBK - Ticketed Bookings - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "VADS_IT",
+		"UsageName"	: "VADS - Ancillary for ITMZ",
+		"ReportName": "OTC - 29 - VADS - Ancillary for ITMZ- Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "VADS_NTLA",
+		"UsageName"	: "VADS - Ancillary for TLA",
+		"ReportName": "OTC - 29 - VADS - Ancillary for TLA - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		},
+		{
+		"UsageType" : "VADS_TLA",
+		"UsageName"	: "VADS - Ancillary for none TLA",
+		"ReportName": "OTC - 29 - VADS - Ancillary for none TLA - Usage type pricing template.xlsx",
+		"ReportType": "Debit",
+		"IsListPrices": false,
+		"IsMINQ": false,
+		"IsCAP": false,
+		"IsFlight": false
+		}
+
+	],
+	"PricingTempConfig" : {
+		"TemplateFolder": "Pricing Templates\\Templates",
+		"SourceFolder": "Pricing Templates\\Source",
+		"StartRow" : 4
+	},
+	"PricingConfig" : {
+		"PricingFName": "SF_val_MA_PriceAllFields_",
+		"PricingDelm" : "|",
+		"PricingValFName": "SF_PreVal_Pricing_Details_"
+	},
+	"ScalesConfig" : {
+		"ScalesFName": "SF_val_MA_Scales_",
+		"ScalesDelm" : "\\t",
+		"ScalesValFName": "SF_PreVal_Scales_Details_"
+	},
+	"MINFConfig" : {
+		"MINFFName": "SF_val_MINF_Details_",
+		"MINFDelm" : "\\t",
+		"MINFValFName": "SF_PreVal_MINF_Details_"
+	},
+	"PrincingValConfig" : {
+		"PricingTabs": [
+			{"Price": 
+				{"Template_Sheet_Name": "Customer prices", 
+				 "Template_Mapping_Index": 4, 
+				 "Template_Column_Index": 9, 
+				 "Chart_Sheeet_Name": "Pricing_Summary", 
+				 "Details_Sheet_Name": "Price_PreValidation_Details"
+				}
+			},
+			{"Scale": 
+				{"Template_Sheet_Name": "Customer scaled price", 
+				 "Template_Mapping_Index": 4, 
+				 "Template_Column_Index": 8, 
+				 "Chart_Sheeet_Name": "Scales_Summary", 
+				 "Details_Sheet_Name": "Scales_PreValidation_Details"
+				}
+			},
+			{"MINF": 
+				{"Template_Sheet_Name": "MINF Details MTable", 
+				 "Template_Mapping_Index": 1, 
+				 "Template_Column_Index": 6, 
+				 "Chart_Sheeet_Name": "MINF_Summary", 
+				 "Details_Sheet_Name": "MINF_PreValidation_Details"
+				}
+			}
+		]
+	}, 
+	"ContractTempConfig" : {
+		"TemplateFolder": "Contract Templates\\Templates",
+		"ContractTypeName": "Contract Type Template.xlsx",
+		"SourceFileName": "OTC_TST_Contracts_Type_Template",
+		"Delimeter" : "\\t"
+	},
+	"DebitCreditConfig" : {
+		"TemplateFolder": "Contract Templates\\Templates",
+		"TemplateFName": " Enrichment Template",
+		"Delimeter" : "\\t",
+		"Debit" : [
+			{"SheetName": "BillingMaterials",
+			 "SourceFName": "SF_Debit_BillingMaterials_"
+			},
+			{"SheetName": "MasterAgreement Header",
+			 "SourceFName": "SF_Debit_MasterAgreement_Header_"
+			},
+			{"SheetName": "MasterAgreement Items",
+			 "SourceFName": "SF_Debit_MasterAgreement_Item_"
+			},
+			{"SheetName": "SolutionQuotation Header",
+			 "SourceFName": "SF_Debit_SolutionQuotation_Header_"
+			},
+			{"SheetName": "SolutionQuotation Item",
+			 "SourceFName": "SF_Debit_SolutionQuotation_Item_"
+			},
+			{"SheetName": "Authorized Partners",
+			 "SourceFName": "SF_Debit_Authorized_Partners_"
+			},
+			{"SheetName": "Service Request",
+			 "SourceFName": "SF_Debit_Service_Request_"
+			}
+		],
+		"Credit" : [
+			{"SheetName": "BillingMaterials",
+			 "SourceFName": "SF_Credit_BillingMaterials_"
+			},
+			{"SheetName": "Partner Agreement Header",
+			 "SourceFName": "SF_Credit_PartnerAgreement_Header_"
+			},
+			{"SheetName": "Partner Agreement Item",
+			 "SourceFName": "SF_Credit_PartnerAgreement_Item_"
+			}
+		]
+		
+	},
+	"ContractPreValStep1Config" : {
+		"TemplateFolder": "Contract Validation\\Templates",
+		"PrevalStep1TempName": "Contract PreVal Step 1 Template.xlsx",
+		"PrevalStep1SheetName": "1. PreLoad AS-IS Detail",
+		"PrevalStep1SourceFileName": "SF_PreVal_Contracts_Step1",
+		"Delimeter" : "\\t"
+	},
+	"ContractPreValStep3Config" : {
+		"TemplateFolder": "Contract Validation\\Templates",
+		"PrevalStep3TempName": "Contract PreVal Step 3 Template.xlsx",
+		"Delimeter" : "\\t",
+		"Sheets" : [
+			{"SheetName": "MasterAgreement Header",
+			 "SourceFName": "SF_Debit_MA_Header_PreValidation"
+			},
+			{"SheetName": "MasterAgreement Items",
+			 "SourceFName": "SF_Debit_MA_Item_PreValidation"
+			},
+			{"SheetName": "Authorized Partners",
+			 "SourceFName": "SF_Debit_Authorized_Partner_PreValidation"
+			},
+			{"SheetName": "SolutionQuotation Header",
+			 "SourceFName": "SF_Debit_SQ_Header_PreValidation"
+			},
+			{"SheetName": "SolutionQuotation Item",
+			 "SourceFName": "SF_Debit_SQ_Item_PreValidation"
+			},
+			{"SheetName": "Service Request",
+			 "SourceFName": "SF_Debit_Service_Request_PreValidation"
+			},
+			{"SheetName": "Partner Agreement Header",
+			 "SourceFName": "SF_Credit_PA_Header_PreValidation"
+			},
+			{"SheetName": "Partner Agreement Item",
+			 "SourceFName": "SF_Credit_PA_Item_PreValidation"
+			}
+		]
+	}
+
+
+}

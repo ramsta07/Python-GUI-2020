@@ -1,0 +1,15 @@
+/_pycache_
+/build
+/dist
+*.exe
+*.docx
+*.spec
+/output
+resources/Contract Templates/Templates/Contract Type Template.xlsx
+resources/Contract Templates/Templates/Debit Enrichment Template.xlsx
+resources/Contract Templates/Templates/~$Contract Type Template.xlsx
+resources/Contract Validation/Templates/Contract PreVal Step 1 Template.xlsx
+resources/Contract Validation/Templates/Contract PreVal Step 3 Template.xlsx
+resources/Pricing Templates/Templates/OTC - 01 - CRBK - Cruise Booking - Usage type pricing template.xlsx
+resources/Pricing Templates/Templates/OTC - 02 - ARBK - Air Booking - Usage type pricing template.xlsx
+resources/Pricing Templates/Templates/OTC - 12 - ATDT - ATD CTD - Usage type pricing template.xlsx
